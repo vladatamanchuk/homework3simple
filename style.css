@@ -8,6 +8,10 @@
 {
     width: 100%;
 }
+.text
+{
+    font-size: 18px;
+}
 .car
 {
     border-style:dashed;
@@ -38,4 +42,5 @@
     background: rgb(0, 0, 0);
     text-align: center;
     color :#fff;
+    font-size: 20px;
 }
