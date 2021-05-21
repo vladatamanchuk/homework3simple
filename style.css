@@ -11,9 +11,25 @@
 .car
 {
     border-style:dashed;
-     center;
 }
 .carcenter
 {
     text-align: center;
+}
+.bolder
+{
+   font-weight: bolder; 
+}
+.italic
+{
+    font-style: italic;
+}
+.textblue
+{
+    color: blue;
+}
+.colorweight
+{
+    color: blue;
+    font-weight: bolder;
 }
